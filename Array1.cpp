@@ -17,6 +17,7 @@ int main() {
     Person person1;
     Point point1;
 
+    std::cout << "Hello WOrld" << std::endl;
     
     std::cout << "Address of Person structure: " << &person1 << std::endl;
     std::cout << "Address of Point structure: " << &point1 << std::endl;
