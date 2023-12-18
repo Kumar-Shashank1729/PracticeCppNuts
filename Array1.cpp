@@ -22,5 +22,9 @@ int main() {
     std::cout << "Address of Person structure: " << &person1 << std::endl;
     std::cout << "Address of Point structure: " << &point1 << std::endl;
 
+    std::cout << "Address of Person structure: " << &person1 << std::endl;
+    std::cout << "Address of Point structure: " << &point1 << std::endl;
+
+
     return 0;
 }
